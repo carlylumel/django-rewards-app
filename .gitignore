@@ -1,0 +1,13 @@
+/.idea
+*.pyc
+.tags*
+/*-venv
+secretprops.properties
+.tags*
+/*-venv
+.coverage
+cover
+node_modules/
+/static/dist/
+.vscode/
+*.bak
